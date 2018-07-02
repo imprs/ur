@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ur5_barrett_description
+    relative_path: Robot/ur5_barrett.xacro
+  SRDF:
+    relative_path: config/ur5_barrett.srdf
+  CONFIG:
+    author_name: Pratik Somaiya
+    author_email: pratik.somaiya2000@gmail.com
+    generated_timestamp: 1530555661
